@@ -37,10 +37,3 @@ I am a passionate software developer dedicated to building efficient, scalable, 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github.com/Muskanjain127/Food-App)
-
----
-[![](https://github.com/Muskanjain127/GYM_WEBAPP_WITH_EMAIL_NOTIFICATION)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
