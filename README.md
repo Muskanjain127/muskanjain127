@@ -1,16 +1,22 @@
-
 Hi 👋, I am Muskan Jain
 🚀 AI & MERN Stack Developer | Full Stack Engineer | Problem Solver
 
 
-👨‍💻 About Me Overview 
-🎓 B.C.A. Student at Guru Jambheshwar University of Science and Technology (2024–2027)
-🚀 AI & MERN Stack Developer building scalable full-stack applications.
-🤖 Passionate about AI/ML.
-💡 Strong in JavaScript, TypeScript, REST APIs, MongoDB, and DSA.
-🌱 Currently exploring AI/ML.
-📍 Hisar,Haryana ,India
+
+
 # 💫 About Me:
+🎓 B.C.A. Student at Guru Jambheshwar University of Science and Technology (2024–2027)
+
+🚀 AI & MERN Stack Developer building scalable full-stack applications.
+
+🤖 Passionate about AI/ML.
+
+💡 Strong in JavaScript, TypeScript, REST APIs, MongoDB, and DSA.
+
+🌱 Currently exploring AI/ML.
+
+📍 Hisar,Haryana ,India
+
 I am a passionate software developer dedicated to building efficient, scalable, and user-centric solutions. With a strong foundation in modern programming languages and frameworks, I enjoy tackling complex challenges and turning ideas into functional code. I am a lifelong learner constantly exploring new technologies to improve my craft and contribute to impactful projects.<br> Also I am a driven and detail-oriented individual with a keen interest in technology and innovation. Currently, I am focused on expanding my skill set, collaborating on open-source projects, and gaining hands-on experience in the field. I am highly motivated, quick to adapt to new environments, and eager to contribute to meaningful work while growing as a professional.
 
 
