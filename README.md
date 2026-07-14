@@ -229,7 +229,6 @@ Built with a focus on conversion-ready UX — clear pricing hierarchy, frictionl
 
 </div>
 
-> ⚠️ **Snake setup note:** this image only renders once a `snake.svg` generator workflow runs on your **profile repo** (`Muskanjain127/Muskanjain127`) and pushes to an `output` branch — GitHub doesn't generate it automatically. Add [`Platane/snk`](https://github.com/Platane/snk) as a scheduled GitHub Action there; until that workflow runs at least once, this block will show as a broken image.
 
 ---
 
