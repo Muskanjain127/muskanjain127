@@ -37,7 +37,7 @@
 name: "Muskan Jain"
 role: "Full-Stack MERN Developer (Intern-Level)"
 education: "BCA, Guru Jambheshwar University of Science & Technology, Hisar"
-focus: "Software Engineering · Full-Stack Systems · AI/ML Integration"
+focus: "Software Engineering · Full-Stack Systems · Software Developer"
 ```
 
 I'm a BCA sophomore engineering full-stack applications with a strong bias toward **production-readiness** — authentication that's actually secure, APIs that are actually tested, and deployments that actually hold up under real traffic. I've shipped two end-to-end MERN platforms covering multi-role architectures, JWT-based auth, media pipelines, and CI/CD, and I hold **three 100%-scored KnowledgeGate certifications** across JavaScript, React/Redux, and the Node.js/Express/MongoDB stack.
