@@ -18,6 +18,8 @@
 <a href="https://linkedin.com/in/muskan-jain-5388443bb"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E"/></a>
 <a href="mailto:muskanjain7206@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A2E"/></a>
 <a href="https://github.com/Muskanjain127"><img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E"/></a>
+<a href="https://pinterest.com/muskanjain7206"><img src="https://img.shields.io/badge/Pinterest-Follow-9333EA?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=1A1A2E"/></a>
+<a href="https://reddit.com/user/Overall_Ad6157"><img src="https://img.shields.io/badge/Reddit-Follow-6D28D9?style=for-the-badge&logo=reddit&logoColor=white&labelColor=1A1A2E"/></a>
 
 <br/><br/>
 
@@ -33,16 +35,21 @@
 
 ### 🪐 About Me
 
-```yaml
-name: "Muskan Jain"
-role: "Full-Stack MERN Developer (Intern-Level)"
-education: "BCA, Guru Jambheshwar University of Science & Technology, Hisar"
-focus: "Software Engineering · Full-Stack Systems · AI/ML Integration"
-```
+🎓 B.C.A. Student at Guru Jambheshwar University of Science and Technology, Hisar (2024 – 2027)
 
-I'm a BCA sophomore engineering full-stack applications with a strong bias toward **production-readiness** — authentication that's actually secure, APIs that are actually tested, and deployments that actually hold up under real traffic. I've shipped two end-to-end MERN platforms covering multi-role architectures, JWT-based auth, media pipelines, and CI/CD, and I hold **three 100%-scored KnowledgeGate certifications** across JavaScript, React/Redux, and the Node.js/Express/MongoDB stack.
+🚀 AI & MERN Stack Developer building scalable, production-grade full-stack applications.
 
-I think in systems, not just screens — data modeling, middleware design, caching strategy, and security posture matter to me as much as UI polish. I'm currently extending that foundation into **AI/ML fundamentals** so I can integrate intelligent features directly into full-stack products.
+🤖 Passionate about AI/ML and integrating intelligent features into full-stack products.
+
+💡 Strong foundation in JavaScript, TypeScript, REST APIs, MongoDB, and Data Structures & Algorithms.
+
+🌱 Currently exploring AI/ML fundamentals — Python, NumPy, Pandas, and scikit-learn.
+
+📍 Based in Hisar, Haryana, India.
+
+I'm a passionate software developer dedicated to building efficient, scalable, and user-centric solutions. With a strong foundation in modern programming languages and frameworks, I enjoy tackling complex challenges and turning ideas into functional code. I've shipped two production-grade MERN platforms end-to-end — covering multi-role architecture, JWT-based authentication, media pipelines, and CI/CD-ready testing — and hold three 100%-scored KnowledgeGate certifications across JavaScript, React/Redux, and Node.js/Express/MongoDB.
+
+I'm a driven, detail-oriented lifelong learner, constantly exploring new technologies to sharpen my craft. Currently focused on expanding my skill set, collaborating on open-source projects, and gaining hands-on engineering experience — highly motivated, quick to adapt, and eager to contribute to meaningful work while growing as a professional.
 
 <div align="center">
 
@@ -56,19 +63,27 @@ I think in systems, not just screens — data modeling, middleware design, cachi
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,html,css" />
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite" />
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,postgresql" />
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,postman,vercel,render" />
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Airbnb Style Guide](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
+
+**AI / ML & Data**
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+**Design & Product Tools**
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
@@ -132,22 +147,6 @@ Built with a focus on conversion-ready UX — clear pricing hierarchy, frictionl
 
 ---
 
-### 💼 Experience
-
-**Independent Full-Stack Projects** · *Self-Directed Engineering Track*
-`Aug 2024 – Present`
-
-Designed, built, and deployed production-grade MERN applications end-to-end — from data modeling and API architecture through authentication, media handling, and CI/CD-ready testing.
-
-- Architected multi-role platform schemas and role-based access control from scratch
-- Diagnosed and resolved production cross-origin authentication and SMTP delivery issues
-- Set up Docker-based integration testing environments (MongoDB + Redis containers) with Supertest
-- Optimized media pipelines, reducing upload processing latency by 60%
-
-`React` `Node.js` `Express.js` `MongoDB` `JWT` `Docker` `Redis` `CI/CD`
-
----
-
 ### 🏆 Achievements
 
 <div align="center">
@@ -180,6 +179,8 @@ Designed, built, and deployed production-grade MERN applications end-to-end — 
 
 <a href="https://github.com/Muskanjain127"><img src="https://img.shields.io/badge/GitHub-Muskanjain127-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E"/></a>
 <a href="https://linkedin.com/in/muskan-jain-5388443bb"><img src="https://img.shields.io/badge/LinkedIn-Muskan%20Jain-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E"/></a>
+<a href="https://pinterest.com/muskanjain7206"><img src="https://img.shields.io/badge/Pinterest-muskanjain7206-8B5CF6?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=1A1A2E"/></a>
+<a href="https://reddit.com/user/Overall_Ad6157"><img src="https://img.shields.io/badge/Reddit-Overall__Ad6157-9333EA?style=for-the-badge&logo=reddit&logoColor=white&labelColor=1A1A2E"/></a>
 
 </div>
 
@@ -204,7 +205,7 @@ Designed, built, and deployed production-grade MERN applications end-to-end — 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Muskanjain127&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Muskanjain127&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1"/>
 
 </div>
 
@@ -228,25 +229,28 @@ Designed, built, and deployed production-grade MERN applications end-to-end — 
 
 </div>
 
+> ⚠️ **Snake setup note:** this image only renders once a `snake.svg` generator workflow runs on your **profile repo** (`Muskanjain127/Muskanjain127`) and pushes to an `output` branch — GitHub doesn't generate it automatically. Add [`Platane/snk`](https://github.com/Platane/snk) as a scheduled GitHub Action there; until that workflow runs at least once, this block will show as a broken image.
+
 ---
 
 ### 🎯 Current Focus
 
-```yaml
-learning:
-  - AI/ML Fundamentals (Python, NumPy, Pandas, scikit-learn)
-  - Integrating ML APIs into MERN applications
-building:
-  - Production-grade full-stack platforms with role-based architectures
-  - Deeper CI/CD and container-based testing pipelines
-exploring:
-  - WebSockets for real-time features
-  - Redis-backed session architecture at scale
-  - AWS EC2 / S3 deployment workflows
-open_to:
-  - MERN Stack Developer Internships
-  - Full-Stack Engineering Opportunities (Remote / India / Global)
-```
+**🧠 Learning**
+- AI/ML Fundamentals — Python, NumPy, Pandas, scikit-learn
+- Integrating ML APIs into MERN applications
+
+**🏗️ Building**
+- Production-grade full-stack platforms with role-based architectures
+- Deeper CI/CD and container-based testing pipelines
+
+**🔭 Exploring**
+- WebSockets for real-time features
+- Redis-backed session architecture at scale
+- AWS EC2 / S3 deployment workflows
+
+**🎯 Open To**
+- MERN Stack Developer Internships
+- Full-Stack Engineering Opportunities (Remote / India / Global)
 
 ---
 
