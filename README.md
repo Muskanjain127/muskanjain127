@@ -18,8 +18,6 @@
 <a href="https://linkedin.com/in/muskan-jain-5388443bb"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E"/></a>
 <a href="mailto:muskanjain7206@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A2E"/></a>
 <a href="https://github.com/Muskanjain127"><img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E"/></a>
-<a href="https://pinterest.com/muskanjain7206"><img src="https://img.shields.io/badge/Pinterest-Follow-9333EA?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=1A1A2E"/></a>
-<a href="https://reddit.com/user/Overall_Ad6157"><img src="https://img.shields.io/badge/Reddit-Follow-6D28D9?style=for-the-badge&logo=reddit&logoColor=white&labelColor=1A1A2E"/></a>
 
 <br/><br/>
 
@@ -35,21 +33,16 @@
 
 ### 🪐 About Me
 
-🎓 B.C.A. Student at Guru Jambheshwar University of Science and Technology, Hisar (2024 – 2027)
+```yaml
+name: "Muskan Jain"
+role: "Full-Stack MERN Developer (Intern-Level)"
+education: "BCA, Guru Jambheshwar University of Science & Technology, Hisar"
+focus: "Software Engineering · Full-Stack Systems · AI/ML Integration"
+```
 
-🚀 AI & MERN Stack Developer building scalable, production-grade full-stack applications.
+I'm a BCA sophomore engineering full-stack applications with a strong bias toward **production-readiness** — authentication that's actually secure, APIs that are actually tested, and deployments that actually hold up under real traffic. I've shipped two end-to-end MERN platforms covering multi-role architectures, JWT-based auth, media pipelines, and CI/CD, and I hold **three 100%-scored KnowledgeGate certifications** across JavaScript, React/Redux, and the Node.js/Express/MongoDB stack.
 
-🤖 Passionate about AI/ML and integrating intelligent features into full-stack products.
-
-💡 Strong foundation in JavaScript, TypeScript, REST APIs, MongoDB, and Data Structures & Algorithms.
-
-🌱 Currently exploring AI/ML fundamentals — Python, NumPy, Pandas, and scikit-learn.
-
-📍 Based in Hisar, Haryana, India.
-
-I'm a passionate software developer dedicated to building efficient, scalable, and user-centric solutions. With a strong foundation in modern programming languages and frameworks, I enjoy tackling complex challenges and turning ideas into functional code. I've shipped two production-grade MERN platforms end-to-end — covering multi-role architecture, JWT-based authentication, media pipelines, and CI/CD-ready testing — and hold three 100%-scored KnowledgeGate certifications across JavaScript, React/Redux, and Node.js/Express/MongoDB.
-
-I'm a driven, detail-oriented lifelong learner, constantly exploring new technologies to sharpen my craft. Currently focused on expanding my skill set, collaborating on open-source projects, and gaining hands-on engineering experience — highly motivated, quick to adapt, and eager to contribute to meaningful work while growing as a professional.
+I think in systems, not just screens — data modeling, middleware design, caching strategy, and security posture matter to me as much as UI polish. I'm currently extending that foundation into **AI/ML fundamentals** so I can integrate intelligent features directly into full-stack products.
 
 <div align="center">
 
@@ -147,6 +140,22 @@ Built with a focus on conversion-ready UX — clear pricing hierarchy, frictionl
 
 ---
 
+### 💼 Experience
+
+**Independent Full-Stack Projects** · *Self-Directed Engineering Track*
+`Aug 2024 – Present`
+
+Designed, built, and deployed production-grade MERN applications end-to-end — from data modeling and API architecture through authentication, media handling, and CI/CD-ready testing.
+
+- Architected multi-role platform schemas and role-based access control from scratch
+- Diagnosed and resolved production cross-origin authentication and SMTP delivery issues
+- Set up Docker-based integration testing environments (MongoDB + Redis containers) with Supertest
+- Optimized media pipelines, reducing upload processing latency by 60%
+
+`React` `Node.js` `Express.js` `MongoDB` `JWT` `Docker` `Redis` `CI/CD`
+
+---
+
 ### 🏆 Achievements
 
 <div align="center">
@@ -179,8 +188,6 @@ Built with a focus on conversion-ready UX — clear pricing hierarchy, frictionl
 
 <a href="https://github.com/Muskanjain127"><img src="https://img.shields.io/badge/GitHub-Muskanjain127-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E"/></a>
 <a href="https://linkedin.com/in/muskan-jain-5388443bb"><img src="https://img.shields.io/badge/LinkedIn-Muskan%20Jain-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E"/></a>
-<a href="https://pinterest.com/muskanjain7206"><img src="https://img.shields.io/badge/Pinterest-muskanjain7206-8B5CF6?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=1A1A2E"/></a>
-<a href="https://reddit.com/user/Overall_Ad6157"><img src="https://img.shields.io/badge/Reddit-Overall__Ad6157-9333EA?style=for-the-badge&logo=reddit&logoColor=white&labelColor=1A1A2E"/></a>
 
 </div>
 
@@ -201,6 +208,13 @@ Built with a focus on conversion-ready UX — clear pricing hierarchy, frictionl
 
 ---
 
+### 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Muskanjain127&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+
+</div>
 
 ---
 
@@ -212,11 +226,23 @@ Built with a focus on conversion-ready UX — clear pricing hierarchy, frictionl
 
 </div>
 
----
+### 🗓️ Contribution Graph
 
+<div align="center">
+
+<img src="https://ghchart.rshah.org/6D28D9/Muskanjain127" alt="Muskan's GitHub contribution graph"/>
 
 </div>
 
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Muskanjain127/Muskanjain127/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
