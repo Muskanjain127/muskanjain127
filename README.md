@@ -201,13 +201,6 @@ Built with a focus on conversion-ready UX — clear pricing hierarchy, frictionl
 
 ---
 
-### 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Muskanjain127&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1"/>
-
-</div>
 
 ---
 
@@ -221,11 +214,6 @@ Built with a focus on conversion-ready UX — clear pricing hierarchy, frictionl
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Muskanjain127/Muskanjain127/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
