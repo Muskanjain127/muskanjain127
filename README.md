@@ -208,13 +208,6 @@ Designed, built, and deployed production-grade MERN applications end-to-end — 
 
 ---
 
-### 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Muskanjain127&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8"/>
-
-</div>
 
 ---
 
@@ -236,13 +229,6 @@ Designed, built, and deployed production-grade MERN applications end-to-end — 
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Muskanjain127/Muskanjain127/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 ---
 
